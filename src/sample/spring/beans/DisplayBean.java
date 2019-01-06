@@ -9,7 +9,7 @@ public class DisplayBean {
 	}
 	
 	public void display(){
-		System.out.println("Hi Spring World"+ number);
+		System.out.println("Hi SSpring World"+ number);
 	}
 
 }
